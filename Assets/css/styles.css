@@ -54,7 +54,7 @@ hr{
     background-color: #40CFFF;
     height: 3pt; 
 }
-i{
+.textoi{
     width: 290pt;
     background-color: #40CFFF;
     height: 40pt;  
@@ -81,8 +81,9 @@ i{
 }
 
 
-#footer{
+.footer{
     background-color: #61a3e1;
+
 }
 #footer h1 {
     font-family: "Oswald";
